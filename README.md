@@ -2,10 +2,6 @@
 
 <h1 align="center">personal_clawbot</h1>
 
-<p align="center">
-  <strong>OpenClaw, reimagined in pure Python — purely Pythonic design.</strong><br>
-  Memory · RAG · Skills · Web Dashboard · Voice · Daemon · Multi-Channel
-</p>
 
 
 
