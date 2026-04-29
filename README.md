@@ -9,25 +9,7 @@
   Memory · RAG · Skills · Web Dashboard · Voice · Daemon · Multi-Channel
 </p>
 
-<p align="center">
-  <a href="https://github.com/ericwang915/PythonClaw/actions/workflows/ci.yml">
-    <img src="https://github.com/ericwang915/PythonClaw/actions/workflows/ci.yml/badge.svg" alt="CI">
-  </a>
-  <a href="https://pypi.org/project/pythonclaw/">
-    <img src="https://img.shields.io/pypi/v/pythonclaw?color=blue" alt="PyPI">
-  </a>
-  <img src="https://img.shields.io/pypi/pyversions/pythonclaw" alt="Python">
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/ericwang915/PythonClaw" alt="MIT License">
-  </a>
-  <a href="https://github.com/ericwang915/PythonClaw/stargazers">
-    <img src="https://img.shields.io/github/stars/ericwang915/PythonClaw?style=social" alt="Stars">
-  </a>
-</p>
 
-<p align="center">
-  <em>The Python port of <a href="https://github.com/openclaw/openclaw">OpenClaw</a> — no Node.js, no Rust, no C extensions. Just Python.</em>
-</p>
 
 ---
 
