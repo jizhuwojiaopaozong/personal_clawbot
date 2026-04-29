@@ -2,7 +2,7 @@
   <img src="assets/logo-300.png" alt="PythonClaw" width="160">
 </p>
 
-<h1 align="center">PythonClaw</h1>
+<h1 align="center">personal_clawbot</h1>
 
 <p align="center">
   <strong>OpenClaw, reimagined in pure Python — purely Pythonic design.</strong><br>
