@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/logo-300.png" alt="PythonClaw" width="160">
-</p>
+
 
 <h1 align="center">personal_clawbot</h1>
 
